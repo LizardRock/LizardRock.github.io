@@ -4,6 +4,7 @@ document.getElementById("foot01").innerHTML =
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
 "<li><a href='index.html'>Home</a></li>" +
+"<li><a href='About.html'>About</a></li>" +
 "<li><a href='BotM.html'>BotM</a></li>" +
 "<li><a href='Contact.html'>Contact</a></li>" +
 
