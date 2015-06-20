@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <style>
@@ -26,14 +25,7 @@ style="width:50px;height:50px">Contact got</h1>
   
   your contactness has been gotten<br>
   here is contact info: <br>
-  <?php 
-  $name = $_POST["name"]; 
-$email = $_POST["email"]; 
-$comment = $_POST["comment"]; 
-echo $name; 
-echo $email; 
-echo $comment; 
-?>
+  
   </p>
 
 <p>
