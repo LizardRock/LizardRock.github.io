@@ -33,3 +33,37 @@ style="width:50px;height:50px">Contact Got</h1>
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+<p>
+
+
+//<h2>Test Email Web Form</h2>
+//
+//<form action="contactForm.php" method="post">
+//Name:<br>
+//<input type="text" name="name" value="your name"><br>
+//E-mail:<br>
+//<input type="text" name="email" value="your email"><br>
+//Comment:<br>
+//<textarea name="message" rows="5" cols="21" id="message"></textarea><br>
+
+//<input type="submit" value="Send">
+
+//</form>
+
+
+
+
+
+
+</p>
