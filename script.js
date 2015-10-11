@@ -7,5 +7,5 @@ document.getElementById("nav01").innerHTML =
 "<li><a href='About.html'>About</a></li>" +
 "<li><a href='BotM.html'>BotM</a></li>" +
 "<li><a href='Contact.html'>Contact</a></li>" +
-
+"<li><a href='port.html'>Coding Portfolio</a></li>" +
 "</ul>";
